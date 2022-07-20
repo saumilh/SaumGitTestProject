@@ -6,5 +6,6 @@ public class MainClass {
         System.out.println("Hello Los Angeles !!!!!");
         System.out.println("Hello San Diego !!!");
         System.out.println("Hello New York !!!!");
+        System.out.println("Hello Miami !!!!");
     }
 }
